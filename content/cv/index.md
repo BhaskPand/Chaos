@@ -12,15 +12,8 @@ _build:
 **Master's degree - Applied Statistics** \
 *(Sep 2020 – Apr 2022)*\
 GPA: 3.57/4\
-**Relevant Coursework**: Statistical Learning, Statistical Inference, Computational Methods in Statistics and Data Science,
-Bayesian Statistics, Design of Experiments, Monte-Carlo Methods
+**Relevant Coursework**: Statistical Learning, Statistical Inference, Computational Methods in Statistics and Data Science, Bayesian Statistics, Design of Experiments, Monte-Carlo Methods
 
-**Graduate Student Research Assistant**\
-*D3Center, Institute of Social Research, University of Michigan*
-1. Developed SMARTUtils, an R package for analyzing data arising from clustered sequential multiple assignment randomized trials (SMARTs)
-2. Worked on the development of simulation-based sample size and effect size calculators for SMARTs
-3. Worked on methods to develop more statistically efficient methods for comparing the embedded adaptive
-interventions in a clustered SMARTs with longitudinal outcome
 
 ### B. M. S. College of Engineering
 **Bachelor's degree - Telecommunications Engineering**\
@@ -60,21 +53,28 @@ Credential ID MPTSTFZQQ9Q8\
 
 ## Skills
 
-Inferential Statistics, Statistical Learning, Monte-Carlo Methods, Design of Experiments, Generalized Estimating Equations, Causal Inference, Computational Methods in Statistics, Bayesian Methods, Linear Algebra, Machine Learning, Artificial Neural Networks, R, Python
+**Methods/Technologies**: Machine Learning, NLP, Causal Inference, Monte-Carlo methods, Artificial Neural Networks, Time Series Classification (w/LSTM), Large Language Models (LLM),  BERT, LLAMA, Transfer Learning, Linux, SQL, REST\
+**Libraries**: Scikit-Learn, Tensorflow, PyTorch, Scikit-Image, Numpy, Pandas, OpenCV, ggplot2, dplyr, lme4, geepack\
+**Programming Languages**: Python, R, GNU OCTAVE/ MATLAB,  Julia
 
 ## Work Experience
 ### Westat
 *(June 2022 – Present)*\
 **Lead Statistical Associate**
-- Worked on weighting and statistical disclosure for the population assessment of tobacco and health (PATH) survey
-- Analyzed data from the national crime victimization survey (NCVS) using Poisson regression with replicate weights to obtain more
-accurate estimates of standard errors by accounting for the complex survey design
--  Built a text-classification model to classify medical documents into drug overdose classes given a medical case and its related
-metadata for Drug Abuse Warning Network (DAWN)
-- *Assessing Survey Questions through a Machine Learning Pipeline: Emotions and Paralinguistic Behaviors*, Federal Committee on
-Statistical Methodology 2023, College Park, MD
-- *Using Machine Learning for Image Extraction and Survey Question Evaluation*, American Association for Public Opinion Research
-conference 2024, Atlanta, GA
+- Improved upon the existing audio machine learning pipeline to obtain more accurate feature extraction from computer recorded survey interviews. This was deployed in production for the Panel Assessment of Tobacco and Health (PATH) and Medical Panel Expenditure Survey (MEPS) in production for quality control. 
+- Lead the development of a cutting-edge multi-class medical text classifier for categorizing medical records into drug abuse cases as a part of the Drug Abuse Warning Network (DAWN) system of Substance Abuse and Mental Health Services Administration (SAMHSA). Improved accuracy from 75% to ~90% on the test data by leveraging state of the art language models and fine-tuning.
+- Streamlined the survey weighting process by reducing redundancies and eliminating human error, resulting in more efficient and accurate analyses.
+- Improved upon an existing Julia package to iteratively collect large scale GitHub repository and developer data as a part of Open Source Software (OSS) investigation, a National Science Foundation project. The improved package has added functions to extract GitHub metadata which was
+instrumental in our analysis.
+- Leveraged state-of-the art large language models to obtain better estimates for matching responder provided industry text to North American Industry Classification System (NAICS) coding. The pipeline involved data augmentation followed by feature extraction to improve upon the existing set of keywords.
+
+### Graduate Student Research Assistant
+*(Sep 2021 - Apr 2022)*\
+**D3Center, Institute of Social Research, University of Michigan**\
+- Developed SMARTUtils, an R package for analyzing data arising from clustered sequential multiple assignment randomized trials (SMARTs)
+- Worked on the development of simulation-based sample size and effect size calculators for SMARTs
+- Worked on methods to develop more statistically efficient methods for comparing the embedded adaptive
+interventions in a clustered SMARTs with longitudinal outcome
 
 ### Westat
 *(Jun 2021 – Sep 2021)*\
@@ -133,7 +133,9 @@ distribution with exponential cut-off by deriving Jeffrey’s prior and Monte-Ca
 - This research was presented at the ICEECCOT, IEEE Conference – 2018
 
 ## Conferences and Publications
-- *Standardized Effect Sizes for the Comparison of the Embedded, Clustered Adaptive Interventions in Clustered
-SMARTs*; Anandkumar Patel, Anil Battalahalli, Amy Kilbourne, Daniel Almirall. Poster presented at: MSSISS; March 2022; Ann Arbor, MI
-- *Assessing Survey Questions through a Machine Learning Pipeline: Emotions and Paralinguistic Behaviors*, Federal Committee on Statistical Methodology 2023, College Park, MD
-- *Using Machine Learning for Image Extraction and Survey Question Evaluation*, American Association for Public Opinion Research conference 2024, Atlanta, GA
+- **Standardized Effect Sizes for the Comparison of the Embedded, Clustered Adaptive Interventions in Clustered SMARTs**; Anandkumar Patel, **Anil Battalahalli**, Amy Kilbourne, and Daniel Almirall. Poster presented at MSSISS, Ann Arbor, MI, March 2022
+- **Assessing Survey Questions through a Machine Learning Pipeline: Emotions and Paralinguistic Behaviors**; **Anil Battalahalli**, Hanyu Sun, and Ting Yan; Federal Committee on Statistical Methodology 2023. College Park, MD, 2023
+- **Using Machine Learning for Image Extraction and Survey Question Evaluation**; **Anil Battalahalli**, Hanyu Sun, and Ting Yan; American Association for Public Opinion Research conference 2024; Atlanta, GA, 2024
+- **Assessing Survey Questions Through a Machine Learning Pipeline: Emotions and Paralinguistic Behaviors**; Hanyu Sun, **Anil Battalahalli**, and Ting Yan, American Association for Public Opinion Research conference 2024; Atlanta, GA, 2024
+- **Can I Have Your Name? Classification of Names for Case Prioritization in Household CAPI Surveys**; Xin (Rosalynn) Yang, **Anil Battalahalli**,and Ting Yan; Paper presented at the American Association of Public Opinion Research annual conference, Chicago, IL, May 12, 2022
+- **Applying Machine Learning to Survey Question Assessment**; Yan Ting, Hanyu Sun, and **Anil Battalahalli**; Survey Practice, 17, May 2024

@@ -39,7 +39,8 @@ weight = 25
 
 [[menu.main]]
 name = "Statistics"
-url = "/statistics/"
+# url = "/statistics/"
+url = "/stats-projects/"
 weight = 10
 
 # [[menu.main]]
