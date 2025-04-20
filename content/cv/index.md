@@ -133,7 +133,7 @@ distribution with exponential cut-off by deriving Jeffrey’s prior and Monte-Ca
 - This research was presented at the ICEECCOT, IEEE Conference – 2018
 
 ## Conferences and Publications
-- **Multilevel Primary Aim Analyses of Clustered SMARTs: With Applications in Health Policy**; Gabriel Durham, **Anil Battalahalli**, Amy Kilbourne, Andrew Quanbeck, Wenchu Pan, Tim Lycurgus, Daniel Almirall; Submitted to AOAS 2025; [arXiv](https://doi.org/10.48550/arXiv.2503.08987)
+- **Multilevel Primary Aim Analyses of Clustered SMARTs: With Applications in Health Policy**; Gabriel Durham, **Anil Battalahalli**, Amy Kilbourne, Andrew Quanbeck, Wenchu Pan, Tim Lycurgus, Daniel Almirall; Submitted to AOAS 2025; https://doi.org/10.48550/arXiv.2503.08987
 - **Primary Aim Analyses in Clustered SMARTs using Longitudinal Outcomes**; Gabriel Durham, **Anil Battalahalli**, Amy Kilbourne, Andrew Quanbeck, Wenchu Pan, Tim Lycurgus, Daniel Almirall; 2024 Joint Statistical Meetings (JSM); Portland, OR (USA) - 08 August 2024
 - **Comparing Multilevel Adaptive Interventions in Clustered SMARTs using Longitudinal Outcomes**: With Application to Health Policy ; Gabriel Durham, Amy Kilbourne, Andrew Quanbeck, **Anil Battalahalli**, Wenchu Pan, Tim Lycurgus, Daniel Almirall; 2024 ENAR Spring Meeting; Baltimore, MD (USA) - 11 March 2024
 - **Standardized Effect Sizes for the Comparison of the Embedded, Clustered Adaptive Interventions in Clustered SMARTs**; Anandkumar Patel, **Anil Battalahalli**, Amy Kilbourne, and Daniel Almirall. Poster presented at MSSISS, Ann Arbor, MI, March 2022
