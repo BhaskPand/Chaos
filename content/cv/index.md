@@ -59,7 +59,7 @@ Credential ID MPTSTFZQQ9Q8\
 
 ## Work Experience
 ### Westat
-*(June 2022 – Present)*\
+*(June 2022 – Feb 2025)*\
 **Lead Statistical Associate**
 - Improved upon the existing audio machine learning pipeline to obtain more accurate feature extraction from computer recorded survey interviews. This was deployed in production for the Panel Assessment of Tobacco and Health (PATH) and Medical Panel Expenditure Survey (MEPS) in production for quality control. 
 - Lead the development of a cutting-edge multi-class medical text classifier for categorizing medical records into drug abuse cases as a part of the Drug Abuse Warning Network (DAWN) system of Substance Abuse and Mental Health Services Administration (SAMHSA). Improved accuracy from 75% to ~90% on the test data by leveraging state of the art language models and fine-tuning.
@@ -133,6 +133,9 @@ distribution with exponential cut-off by deriving Jeffrey’s prior and Monte-Ca
 - This research was presented at the ICEECCOT, IEEE Conference – 2018
 
 ## Conferences and Publications
+- **Multilevel Primary Aim Analyses of Clustered SMARTs: With Applications in Health Policy**; Gabriel Durham, **Anil Battalahalli**, Amy Kilbourne, Andrew Quanbeck, Wenchu Pan, Tim Lycurgus, Daniel Almirall; Submitted to AOAS 2025; [arXiv](https://doi.org/10.48550/arXiv.2503.08987)
+- **Primary Aim Analyses in Clustered SMARTs using Longitudinal Outcomes**; Gabriel Durham, **Anil Battalahalli**, Amy Kilbourne, Andrew Quanbeck, Wenchu Pan, Tim Lycurgus, Daniel Almirall; 2024 Joint Statistical Meetings (JSM); Portland, OR (USA) - 08 August 2024
+- **Comparing Multilevel Adaptive Interventions in Clustered SMARTs using Longitudinal Outcomes**: With Application to Health Policy ; Gabriel Durham, Amy Kilbourne, Andrew Quanbeck, **Anil Battalahalli**, Wenchu Pan, Tim Lycurgus, Daniel Almirall; 2024 ENAR Spring Meeting; Baltimore, MD (USA) - 11 March 2024
 - **Standardized Effect Sizes for the Comparison of the Embedded, Clustered Adaptive Interventions in Clustered SMARTs**; Anandkumar Patel, **Anil Battalahalli**, Amy Kilbourne, and Daniel Almirall. Poster presented at MSSISS, Ann Arbor, MI, March 2022
 - **Assessing Survey Questions through a Machine Learning Pipeline: Emotions and Paralinguistic Behaviors**; **Anil Battalahalli**, Hanyu Sun, and Ting Yan; Federal Committee on Statistical Methodology 2023. College Park, MD, 2023
 - **Using Machine Learning for Image Extraction and Survey Question Evaluation**; **Anil Battalahalli**, Hanyu Sun, and Ting Yan; American Association for Public Opinion Research conference 2024; Atlanta, GA, 2024

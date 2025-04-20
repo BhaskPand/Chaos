@@ -10,16 +10,15 @@ _build:
 ![I look something like this](images/profilepicbw.jpg)
 <p style="text-align: center; font-style: italic; color: #808080;"><small>I look something like this in low light</small></p>
 
-My name is Anil Battalahalli (ಅನಿಲ ಬಟ್ಟಲಹಳ್ಳಿ) <text style="text-align: center; font-style: italic; color: #808080;"><small>(he/they)</small></text>. I graduated from the [University of Michigan – Ann Arbor](https://lsa.umich.edu/stats) with an Applied Statistics Master’s, and I am currently a statistician at [Westat](https://www.westat.com).
+My name is Anil Battalahalli (ಅನಿಲ ಬಟ್ಟಲಹಳ್ಳಿ) <text style="text-align: center; font-style: italic; color: #808080;"><small>(he/they)</small></text>. I graduated from the [University of Michigan – Ann Arbor](https://lsa.umich.edu/stats) with an Applied Statistics Master’s.
 
-At the graduate school, I worked as a Graduate Student Research Assistant (GSRA) for the Data Science for Dynamic Intervention Decision-making Center (d3c), a research center at the Institute for Social Research, University of Michigan. At d3c I worked on developing statistical computational tools for clustered Sequential Multiple Assignment Randomized Trials (SMART).
+At the graduate school, I worked as a Graduate Student Research Assistant (GSRA) for the Data Science for Dynamic Intervention Decision-making Center (d3c), a research center at the Institute for Social Research, University of Michigan. At d3c I worked on developing statistical computational tools for clustered Sequential Multiple Assignment Randomized Trials (SMART). Following my graduation, I worked as a Lead Statistical Associate at [Westat](https://www.westat.com) from 2022 till 2025 working on problems in survey statistics.
 
 ![d3c](images/d3c.jpg)
 <p style="text-align: center; font-style: italic; color: #808080;">
   <small>The coolest research lab</small>
 </p>
 
- I am currently continuing my work on the development of a multilevel approach for analyzing data that arises from a clustered SMART at d3c.
 
 ![mssiss](images/mssiss.jpg)
 <p style="text-align: center; font-style: italic; color: #808080;">
