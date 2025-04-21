@@ -15,17 +15,10 @@ imageUrl = "home/chaotic_swirls.gif"
 imageWidth = 220
 imageHeight = 220
 
-[[params.socialIcons]]
-name = "email"
-url = "mailto:anilbs@umich.edu"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/abattalahalli/"
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/AnilBattalahalli"
+[params.social]
+email = "anilbs@umich.edu"
+linkedin = "abattalahalli"
+github = "AnilBattalahalli"
 
 [[menu.main]]
 name = "About Me"
