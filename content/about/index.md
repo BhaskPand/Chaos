@@ -10,7 +10,7 @@ _build:
 ![I look something like this](images/profilepic.jpg)
 <p style="text-align: center; font-style: italic; color: #808080;"><small>I look something like this in low light</small></p>
 
-My name is Anil Battalahalli (ಅನಿಲ ಬಟ್ಟಲಹಳ್ಳಿ) <text style="text-align: center; font-style: italic; color: #808080;"><small>(he/they)</small></text>. I graduated from the [University of Michigan – Ann Arbor](https://lsa.umich.edu/stats) with an Applied Statistics Master’s.
+My name is Anil Battalahalli (ಅನಿಲ ಬಟ್ಟಲಹಳ್ಳಿ) <text style="text-align: center; font-style: italic; color: #808080;"><small>(he/they)</small></text>. I graduated from the [University of Michigan – Ann Arbor](https://lsa.umich.edu/stats) with an Applied Statistics Master’s. At the graduate school, I worked as a Graduate Student Research Assistant (GSRA) for the Data Science for Dynamic Intervention Decision-making Center (d3c), a research center at the Institute for Social Research, University of Michigan. At d3c I worked on developing statistical computational tools for clustered Sequential Multiple Assignment Randomized Trials (SMART). 
 
 ![d3c](images/d3c.jpg)
 <p style="text-align: center; font-style: italic; color: #808080;">
@@ -18,7 +18,7 @@ My name is Anil Battalahalli (ಅನಿಲ ಬಟ್ಟಲಹಳ್ಳಿ) <text
 </p>
 
 
-At the graduate school, I worked as a Graduate Student Research Assistant (GSRA) for the Data Science for Dynamic Intervention Decision-making Center (d3c), a research center at the Institute for Social Research, University of Michigan. At d3c I worked on developing statistical computational tools for clustered Sequential Multiple Assignment Randomized Trials (SMART). Following my graduation, I worked as a Lead Statistical Associate at [Westat](https://www.westat.com) from 2022 till 2025 working on problems in survey statistics.
+Following my graduation, I worked as a Lead Statistical Associate at [Westat](https://www.westat.com) from 2022 till 2025 working on problems in survey statistics. I worked on incorporating machine learning techniques to solve problems in survey methods and presented my work at the the [American Association for Public Opinion Research Conference (AAPOR)](https://aapor.org) and the [Federal Committee on Statistical Methodology (FCSM)](https://www.fcsm.gov)
 
 ![mssiss](images/mssiss.jpg)
 <p style="text-align: center; font-style: italic; color: #808080;">
