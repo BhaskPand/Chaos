@@ -7,7 +7,7 @@ _build:
 ---
 
 
-![I look something like this](images/profilepicbw.jpg)
+![I look something like this](images/profilepic.jpg)
 <p style="text-align: center; font-style: italic; color: #808080;"><small>I look something like this in low light</small></p>
 
 My name is Anil Battalahalli (ಅನಿಲ ಬಟ್ಟಲಹಳ್ಳಿ) <text style="text-align: center; font-style: italic; color: #808080;"><small>(he/they)</small></text>. I graduated from the [University of Michigan – Ann Arbor](https://lsa.umich.edu/stats) with an Applied Statistics Master’s.
