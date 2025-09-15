@@ -4,6 +4,8 @@ title = "Chaos"
 theme = [ "PaperMod" ]
 ignoreFiles = [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
 
+ignoreFiles = ["content/kannada/.*"]
+
 [markup.goldmark.renderer]
 unsafe = true
 

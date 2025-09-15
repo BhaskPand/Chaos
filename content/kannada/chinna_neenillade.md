@@ -7,7 +7,7 @@ weight: 99
 kannada: true
 --- 
 
-<div style="text-align:center;" class="kannada-font">
+<!-- <div style="text-align:center;" class="kannada-font"> -->
 
 ಮತ್ತದೇ ಬೇಸರ, ಅದೇ ಸಂಜೆ, ಅದೇ ಏಕಾಂತ\
 ನಿನ್ನ ಜೊತೆಯಿಲ್ಲ,ದೆ ಮಾತಿಲ್ಲದೆ ಮನ ವಿಭ್ರಾಂತ

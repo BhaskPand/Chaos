@@ -9,7 +9,7 @@ kannada: true
 
 
 
-<div style="text-align:center;" class="kannada-font">
+<!-- <div style="text-align:center;" class="kannada-font"> -->
 
 ನೀ ಹೀಂಗ ನೋಡಬ್ಯಾಡ ನನ್ನ\
 ನೀ ಹೀಂಗ ನೋಡಿದರ ನನ್ನ ತಿರುಗಿ ನಾ ಹ್ಯಾಂಗ ನೋಡಲೇ ನಿನ್ನ
