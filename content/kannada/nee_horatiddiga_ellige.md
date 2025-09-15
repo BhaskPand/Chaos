@@ -1,14 +1,10 @@
 ---
 title: "ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?"
-#description: "Can computers summarize the contents of an image?"
 draft: false
 tags: ["Kannada"]
 showToc: false
 weight: 201
 kannada: true
-#math: true
-# cover:
-#     image: "stats/mental_illness/mental_illness.jpg"
 --- 
 
 

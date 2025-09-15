@@ -1,14 +1,10 @@
 ---
 title: "ತಿರುಗಿ ನಾ ಹ್ಯಾಂಗ ನೋಡಲೇ ನಿನ್ನ?"
-#description: "Can computers summarize the contents of an image?"
 draft: false
 tags: ["Kannada"]
 showToc: false
 weight: 200
 kannada: true
-#math: true
-# cover:
-#     image: "stats/mental_illness/mental_illness.jpg"
 --- 
 
 
