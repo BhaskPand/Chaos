@@ -61,8 +61,8 @@ Credential ID MPTSTFZQQ9Q8\
 
 ### Zucitech Software Solutions Pvt. Ltd.
 (May 2025 - Present)
-
-
+**AI/ML Specialist**
+- Led the development of RAG-based internal policy retrieval chatbot for Prevention of Sexual Harassment (POSH) compliance leveraging state-of-the-art generative language models and vector embeddings
 
 ### Westat
 *(June 2022 – Feb 2025)*\
