@@ -7,6 +7,9 @@ ignoreFiles = [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
 [markup.goldmark.renderer]
 unsafe = true
 
+[params]
+disableOpenGraph = true
+
 [params.profileMode]
 enabled = true
 title = "Anil Battalahalli"
