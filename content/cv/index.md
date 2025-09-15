@@ -58,15 +58,23 @@ Credential ID MPTSTFZQQ9Q8\
 **Programming Languages**: Python, R, GNU OCTAVE/ MATLAB,  Julia
 
 ## Work Experience
+
+### Zucitech Software Solutions Pvt. Ltd.
+(May 2025 - Present)
+
+
+
 ### Westat
 *(June 2022 – Feb 2025)*\
 **Lead Statistical Associate**
-- Improved upon the existing audio machine learning pipeline to obtain more accurate feature extraction from computer recorded survey interviews. This was deployed in production for the Panel Assessment of Tobacco and Health (PATH) and Medical Panel Expenditure Survey (MEPS) in production for quality control. 
-- Lead the development of a cutting-edge multi-class medical text classifier for categorizing medical records into drug abuse cases as a part of the Drug Abuse Warning Network (DAWN) system of Substance Abuse and Mental Health Services Administration (SAMHSA). Improved accuracy from 75% to ~90% on the test data by leveraging state of the art language models and fine-tuning.
+- Performed statistical analysis for a large-scale national health trends survey to study the causal effects of incentives on the quality of survey responses.
+- Conducted statistical disclosure analysis to create public-use files for a large-scale longitudinal health survey on tobacco and health.
+- Analyzed data from a national crime victimization survey using Poisson regression with replicate weights to obtain more accurate estimates of standard errors by accounting for complex survey design.
+- Improved upon the existing audio machine learning pipeline to obtain more accurate speaker recognition and transcription from computer-recorded survey interviews. This was deployed in production for large-scale longitudinal health surveys used in national quality control.
+- Led the development of a novel multi-class medical text classifier for categorizing medical records into drug abuse cases as part of a federal public health monitoring system. Improved accuracy from 75% to ~90% on the test data by leveraging state-of-the-art large language model NLP techniques and model fine-tuning.
 - Streamlined the survey weighting process by reducing redundancies and eliminating human error, resulting in more efficient and accurate analyses.
-- Improved upon an existing Julia package to iteratively collect large scale GitHub repository and developer data as a part of Open Source Software (OSS) investigation, a National Science Foundation project. The improved package has added functions to extract GitHub metadata which was
-instrumental in our analysis.
-- Leveraged state-of-the art large language models to obtain better estimates for matching responder provided industry text to North American Industry Classification System (NAICS) coding. The pipeline involved data augmentation followed by feature extraction to improve upon the existing set of keywords.
+- Improved upon an existing Julia package to iteratively collect large-scale GitHub repository and developer data for a national open-source software research initiative. The improved package added functions to extract GitHub metadata, which was instrumental in our analysis.
+- Leveraged state-of-the-art large language models to obtain better estimates for matching responder-provided industry text to standardized industry classification codes. The pipeline involved data augmentation followed by feature extraction to improve upon the existing set of keywords.
 
 ### Graduate Student Research Assistant
 *(Sep 2021 - Apr 2022)*\
