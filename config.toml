@@ -2,9 +2,8 @@ baseURL = "https://anil.battalahalli.me"
 languageCode = "en-us"
 title = "Chaos"
 theme = [ "PaperMod" ]
-ignoreFiles = [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
+ignoreFiles = [ "\\.qmd$", "\\.ipynb$", "\\.py$" , "content/kannada/.*"]
 
-ignoreFiles = ["content/kannada/.*"]
 
 [markup.goldmark.renderer]
 unsafe = true
