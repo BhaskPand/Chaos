@@ -9,7 +9,7 @@ kannada: true
 
 
 
-<div style="text-align:center;" class="kannada-font">
+<!-- <div style="text-align:center;" class="kannada-font"> -->
 
 ಘಮ ಘಮ ಘಮಾಡಿಸ್ತಾವ ಮಲ್ಲಿಗೆ\
 ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?
