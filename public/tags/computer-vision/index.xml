@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer-Vision on Chaos</title>
+    <link>http://localhost:1313/tags/computer-vision/</link>
+    <description>Recent content in Computer-Vision on Chaos</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Attendance System</title>
+      <link>http://localhost:1313/stats-projects/smart_attendance_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stats-projects/smart_attendance_system/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;An AI-powered attendance management application that automatically marks student attendance using facial recognition through a live camera feed. This project is built using Python, Flask, OpenCV, and MediaPipe, offering a seamless, contactless attendance solution.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time facial recognition&lt;/li&gt;
+&lt;li&gt;Automatic attendance marking&lt;/li&gt;
+&lt;li&gt;Live camera feed processing&lt;/li&gt;
+&lt;li&gt;Contactless solution&lt;/li&gt;
+&lt;li&gt;High accuracy face detection and recognition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Framework&lt;/strong&gt;: Flask&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computer Vision&lt;/strong&gt;: OpenCV, MediaPipe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI/ML&lt;/strong&gt;: Artificial Intelligence, Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/BhaskPand/Smart-Attendance-System&#34;&gt;BhaskPand/Smart-Attendance-System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>RealMeta - Museum Painting Scanner</title>
+      <link>http://localhost:1313/stats-projects/realmeta_museum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stats-projects/realmeta_museum/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;RealMeta is a no-login, camera-based museum painting scanner. Point your phone at a painting, capture, and get instant information. Works offline for demos, supports anonymous analytics with consent, and includes a simple guided tour queue.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;No login&lt;/strong&gt; — immediate use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Camera capture&lt;/strong&gt; and scan-based lookup (pHash)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rich info&lt;/strong&gt;: text + audio (with TTS fallback)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Guided tour queue&lt;/strong&gt; (Next / Clear)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anonymous analytics&lt;/strong&gt; with consent modal and session UUID&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Offline-ready&lt;/strong&gt; via Service Worker (pre-caches core assets)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Flask, Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computer Vision&lt;/strong&gt;: OpenCV&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: JavaScript, HTML, CSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ML&lt;/strong&gt;: scikit-learn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other&lt;/strong&gt;: JSON, Text-to-Speech Synthesis, phash&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;Flask, Python (Programming Language), OpenCV, JSON, JavaScript, Text-to-Speech Synthesis, phash, HTML, Cascading Style Sheets (CSS), scikit-learn&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

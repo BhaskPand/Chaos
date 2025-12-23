@@ -10,16 +10,16 @@ unsafe = true
 
 [params.profileMode]
 enabled = true
-title = "Anil Battalahalli"
-subtitle = "My name is Anil Battalahalli ([**ಅನಿಲ ಬಟ್ಟಲಹಳ್ಳಿ**](https://en.wikipedia.org/wiki/Kannada)) and this is the stuff that I do to amount to entropy. [More about me **here**](/about/)."
+title = "Bhaskar Pandit (ಭಾಸ್ಕರ್ ಪಂಡಿತ್)"
+subtitle = "My name is Bhaskar Pandit ([**ಭಾಸ್ಕರ್ ಪಂಡಿತ್**](https://en.wikipedia.org/wiki/Kannada)) and this is the stuff that I do to Deploy. [More about me **here**](/about/)."
 imageUrl = "home/chaotic_swirls.gif"
 imageWidth = 220
 imageHeight = 220
 
 [params.social]
-email = "anilbs@umich.edu"
-linkedin = "abattalahalli"
-github = "AnilBattalahalli"
+email = "bhaskarpanditmn@gmail.com"
+linkedin = "bhaskar-pandit-m-n-67401a29b"
+github = "BhaskPand"
 
 [[menu.main]]
 name = "About Me"
@@ -32,22 +32,17 @@ url = "/cv/"
 weight = 25
 
 [[menu.main]]
-name = "Statistics"
+name = "Projects"
 # url = "/statistics/"
 url = "/stats-projects/"
 weight = 10
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5
 
 # [[menu.main]]
 # name = "Self Study"
 # url = "/selfstudy/"
 # weight = 12
-
-[[menu.main]]
-name = "Kannada"
-url = "/kannada/"
-weight = 20
-
-[[menu.main]]
-name = "Film Photography"
-url = "https://www.lomography.com/homes/anilbattalahalli"
-weight = 15

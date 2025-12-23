@@ -2,44 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anil.battalahalli.me/stats-projects/bayesian_sir/</loc>
+    <loc>http://localhost:1313/stats-projects/loksuraksha_app/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/kannada/chinna_neenillade/</loc>
+    <loc>http://localhost:1313/stats-projects/delusion_ai/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/stats-projects/mcmc_powerlaw/</loc>
+    <loc>http://localhost:1313/stats-projects/project_shakti/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/stats-projects/crrao/</loc>
+    <loc>http://localhost:1313/stats-projects/smart_attendance_system/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/stats-projects/dirichlet/</loc>
+    <loc>http://localhost:1313/stats-projects/personal_portfolio/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/kannada/nee_hinga_nodabeda/</loc>
+    <loc>http://localhost:1313/stats-projects/smart_glasses/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/stats-projects/analysis_of_mental_illness/</loc>
+    <loc>http://localhost:1313/stats-projects/realmeta_museum/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/kannada/nee_horatiddiga_ellige/</loc>
+    <loc>http://localhost:1313/stats-projects/examsai/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/homepage/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/tags/bayesian/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/categories/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/</loc>
+    <loc>http://localhost:1313/tags/computer-vision/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/tags/data-analysis/</loc>
+    <loc>http://localhost:1313/tags/full-stack/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/tags/kannada/</loc>
+    <loc>http://localhost:1313/tags/iot/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/kannada/</loc>
+    <loc>http://localhost:1313/tags/kannada/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/tags/sampling/</loc>
+    <loc>http://localhost:1313/tags/mobile/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/search/</loc>
+    <loc>http://localhost:1313/tags/projects/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/tags/stats/</loc>
+    <loc>http://localhost:1313/tags/safety/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/stats-projects/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://anil.battalahalli.me/tags/</loc>
+    <loc>http://localhost:1313/tags/security/</loc>
+  </url><url>
+    <loc>http://localhost:1313/stats-projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/web/</loc>
   </url>
 </urlset>

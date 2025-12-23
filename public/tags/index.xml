@@ -2,44 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Chaos</title>
-    <link>https://anil.battalahalli.me/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Chaos</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.153.2</generator>
     <language>en-us</language>
-    <atom:link href="https://anil.battalahalli.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bayesian</title>
-      <link>https://anil.battalahalli.me/tags/bayesian/</link>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/tags/bayesian/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Data Analysis</title>
-      <link>https://anil.battalahalli.me/tags/data-analysis/</link>
+      <title>Computer-Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/tags/data-analysis/</guid>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Full-Stack</title>
+      <link>http://localhost:1313/tags/full-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/full-stack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iot</title>
+      <link>http://localhost:1313/tags/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Kannada</title>
-      <link>https://anil.battalahalli.me/tags/kannada/</link>
+      <link>http://localhost:1313/tags/kannada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/tags/kannada/</guid>
+      <guid>http://localhost:1313/tags/kannada/</guid>
       <description></description>
     </item>
     <item>
-      <title>Sampling</title>
-      <link>https://anil.battalahalli.me/tags/sampling/</link>
+      <title>Mobile</title>
+      <link>http://localhost:1313/tags/mobile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/tags/sampling/</guid>
+      <guid>http://localhost:1313/tags/mobile/</guid>
       <description></description>
     </item>
     <item>
-      <title>Stats</title>
-      <link>https://anil.battalahalli.me/tags/stats/</link>
+      <title>Projects</title>
+      <link>http://localhost:1313/tags/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/tags/stats/</guid>
+      <guid>http://localhost:1313/tags/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safety</title>
+      <link>http://localhost:1313/tags/safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
     </item>
   </channel>

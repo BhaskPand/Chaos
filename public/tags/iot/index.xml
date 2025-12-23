@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Iot on Chaos</title>
+    <link>http://localhost:1313/tags/iot/</link>
+    <description>Recent content in Iot on Chaos</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Glasses For Visually Impaired</title>
+      <link>http://localhost:1313/stats-projects/smart_glasses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stats-projects/smart_glasses/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Developed smart glasses for visually impaired individuals using ESP32, integrating AI-powered object detection, obstacle avoidance, and voice assistance. Implemented real-time image processing and text-to-speech conversion to enhance navigation and accessibility.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AI-powered object detection&lt;/li&gt;
+&lt;li&gt;Obstacle avoidance system&lt;/li&gt;
+&lt;li&gt;Voice assistance for navigation&lt;/li&gt;
+&lt;li&gt;Real-time image processing&lt;/li&gt;
+&lt;li&gt;Text-to-speech conversion&lt;/li&gt;
+&lt;li&gt;Enhanced accessibility for visually impaired users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hardware&lt;/strong&gt;: ESP32&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI/CV&lt;/strong&gt;: Artificial Intelligence &amp;amp; Computer Vision&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IoT&lt;/strong&gt;: IoT &amp;amp; Voice Assistance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other&lt;/strong&gt;: Embedded Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;Embedded Systems, Artificial Intelligence &amp;amp; Computer Vision, IoT &amp;amp; Voice Assistance, Team Leadership&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

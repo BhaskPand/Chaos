@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Full-Stack on Chaos</title>
+    <link>http://localhost:1313/tags/full-stack/</link>
+    <description>Recent content in Full-Stack on Chaos</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/full-stack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LokSuraksha App</title>
+      <link>http://localhost:1313/stats-projects/loksuraksha_app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stats-projects/loksuraksha_app/</guid>
+      <description>&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;
+&lt;p&gt;Developed LokSuraksha — a comprehensive citizen safety platform that empowers users to report community issues (like potholes, hazards, and safety concerns) using a mobile app with camera and GPS integration. The system features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A React Native (Expo) mobile app for capturing and sending reports&lt;/li&gt;
+&lt;li&gt;A Node.js + Express backend API with secure authenticated admin controls&lt;/li&gt;
+&lt;li&gt;A React + Vite web admin dashboard to manage, filter, and visualize reports&lt;/li&gt;
+&lt;li&gt;Seamless data persistence via SQLite, and a shared TypeScript workspace for types &amp;amp; API clients&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This end-to-end solution improves public issue reporting and tracking with offline support, responsive UI, and modular architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ExamsAI – Competitive Exams Hub</title>
+      <link>http://localhost:1313/stats-projects/examsai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stats-projects/examsai/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Built a full-stack AI-integrated web application as part of the Full Stack Developer Assessment by Bhatiyani Astute Intelligence Pvt. Ltd.&lt;/p&gt;
+&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: React.js with MUI (Material UI)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Flask (Python), SQLite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment&lt;/strong&gt;: Vercel (frontend), Render (backend)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Integration&lt;/strong&gt;: OpenAI GPT-3.5 API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add/delete and manage custom exams&lt;/li&gt;
+&lt;li&gt;Visual exam trends using charts&lt;/li&gt;
+&lt;li&gt;Generate personalized study plans using OpenAI&lt;/li&gt;
+&lt;li&gt;Clean UI/UX and mobile responsiveness&lt;/li&gt;
+&lt;li&gt;API environment configuration using .env&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learnings&#34;&gt;Learnings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hands-on experience building and deploying full-stack applications&lt;/li&gt;
+&lt;li&gt;API integration and backend database management&lt;/li&gt;
+&lt;li&gt;Environment variable handling and Git workflow&lt;/li&gt;
+&lt;li&gt;Problem-solving and debugging in live deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;React.js, MUI, Flask, SQLite, OpenAI, Render, Vercel&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

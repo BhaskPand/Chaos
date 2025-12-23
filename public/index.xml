@@ -2,118 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chaos</title>
-    <link>https://anil.battalahalli.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Chaos</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.153.2</generator>
     <language>en-us</language>
-    <atom:link href="https://anil.battalahalli.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bayesian Methods for the Estimation of Infection and Recovery Rates of an Epidemic from Stochastic SIR Data</title>
-      <link>https://anil.battalahalli.me/stats-projects/bayesian_sir/</link>
+      <title>LokSuraksha App</title>
+      <link>http://localhost:1313/stats-projects/loksuraksha_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/stats-projects/bayesian_sir/</guid>
-      <description>This project was co-authored by Heather Johnston and Youngwoo Kwon $$ \gdef{\boldphi}{\boldsymbol{\phi}} $$
-Introduction COVID-19, or Coronavirus Disease 2019, was declared a pandemic by the World Health Organization on March 11, 2020. The disease originated in December 2019 in China and quickly spread around the world. Compared with the previous epidemics like Ebola and SARS, COVID-19 has a relatively low mortality rate, but spreads faster with numerous mildly symptomatic cases.</description>
+      <guid>http://localhost:1313/stats-projects/loksuraksha_app/</guid>
+      <description>&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;
+&lt;p&gt;Developed LokSuraksha — a comprehensive citizen safety platform that empowers users to report community issues (like potholes, hazards, and safety concerns) using a mobile app with camera and GPS integration. The system features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A React Native (Expo) mobile app for capturing and sending reports&lt;/li&gt;
+&lt;li&gt;A Node.js + Express backend API with secure authenticated admin controls&lt;/li&gt;
+&lt;li&gt;A React + Vite web admin dashboard to manage, filter, and visualize reports&lt;/li&gt;
+&lt;li&gt;Seamless data persistence via SQLite, and a shared TypeScript workspace for types &amp;amp; API clients&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This end-to-end solution improves public issue reporting and tracking with offline support, responsive UI, and modular architecture.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ಚಿನ್ನ, ನೀನಿಲ್ಲದೆ ಬಿಮ್ಮೆನ್ನುತಿದೆ ರಮ್ಯೋದ್ಯಾನ</title>
-      <link>https://anil.battalahalli.me/kannada/chinna_neenillade/</link>
+      <title>DeLusion AI</title>
+      <link>http://localhost:1313/stats-projects/delusion_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/kannada/chinna_neenillade/</guid>
-      <description>ಮತ್ತದೇ ಬೇಸರ, ಅದೇ ಸಂಜೆ, ಅದೇ ಏಕಾಂತ
-ನಿನ್ನ ಜೊತೆಯಿಲ್ಲ,ದೆ ಮಾತಿಲ್ಲದೆ ಮನ ವಿಭ್ರಾಂತ
-ಕಣ್ಣನೆ ದಣಿಸುವ ಈ ಪಡುವಣ ಬಾನ್ ಬಣ್ಣಗಳು,
-ಮಣ್ಣನೆ ಹೊನ್ನಿನ ಹಣ್ಣಾಗಿಸುವೀ ಕಿರಣಗಳು,
-ಹಚ್ಚನೆ ಹಸುರಿಗೆ ಹಸೆಯಿಡುತಿರುವೀ ಖಗ ಗಾನ
-ಚಿನ್ನ, ನೀನಿಲ್ಲದೆ ಬಿಮ್ಮೆನ್ನುತಿದೆ ರಮ್ಯೋದ್ಯಾನ
-ಆಸೆಗಳ ಹಿಂಡಿನ ತುಳಿತಕ್ಕೆ ಹೊಲ ನನ್ನೀದೇಹ
-ಬರುವೆಯೋ, ಬಾರೆಯೋ ನೀನೆನ್ನುತಿದೆ ಆ ಸಂದೇಹ
-ಮುತ್ತಿದಾಲಸ್ಯವ ಬಿಗಿ ಮೌನವ ಹೊಡೆದೋಡಿಸು ಬಾ
-ಮತ್ತೆ ಆ ಸಮತೆಯ ಹಿರಿ ಬೇಲಿಯ ಸರಿ ನಿಲ್ಲಿಸು ಬಾ
-ಬಣ್ಣ ಕಳೆದೊಡವೆಯ ತೆರ ಮಾಸುತಲಿದೆ ಸೂರ್ಯಾಸ್ತ
-ನೋಡಗೋ, ತಿಮಿರದ ಬಲೆ ಬೀಸಿದ ಇರುಳಿನ ಬೆಸ್ತ
-ವೆಚ್ಚವಾಗುತ್ತಿದೆ ಸವಿ ಚಣಗಳ ಧನ ದುಂದಾಗಿ;</description>
+      <guid>http://localhost:1313/stats-projects/delusion_ai/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;I was a core contributor to Delusion, a real-time, cross-media detection platform designed to protect identity, trust, and truth in the digital age. We engineered Delusion as the ultimate defense against the flood of AI-generated scams, deepfakes, and impersonations spreading rapidly across the web and various applications.&lt;/p&gt;
+&lt;h2 id=&#34;key-features--technical-highlights&#34;&gt;Key Features &amp;amp; Technical Highlights&lt;/h2&gt;
+&lt;p&gt;Our solution provides instant scanning of images, video, audio, and user profiles, delivering clear risk warnings and trusted badges overlayed directly on content.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bayesian Estimates for the Parameters of a Power-law Distribution with Exponential Cutoff using Monte Carlo Methods</title>
-      <link>https://anil.battalahalli.me/stats-projects/mcmc_powerlaw/</link>
+      <title>Project Shakti</title>
+      <link>http://localhost:1313/stats-projects/project_shakti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/stats-projects/mcmc_powerlaw/</guid>
-      <description>$$ \gdef{\boldphi}{\boldsymbol{\phi}} \gdef{\xmin}{x_{\text{min}}} \gdef{\gammaone} {\Gamma_{\alpha}^{\prime} (1-\alpha, \lambda \xmin)} \gdef{\gammatwo}{\Gamma_{\alpha}^{\prime \prime} (1-\alpha, \lambda \xmin)} \gdef{\gammazero}{\Gamma (1-\alpha, \lambda \xmin)} $$
-Introduction The power-law distribution is of the form \( f(x) \propto x^{-\alpha} \), where \( \alpha \) is called the scaling parameter. It models many natural phenomena like acoustic attenuation, Curie–Von Schweidler law, neuronal avalanches, and others. As \( x \to 0 \), \( f(x) \) diverges out of bounds. Hence, we gdefine \( \xmin \) as a lower bound for the support of the distribution function \( f(x) \).</description>
+      <guid>http://localhost:1313/stats-projects/project_shakti/</guid>
+      <description>&lt;h2 id=&#34;project-shakti-empowering-womens-safety-in-remote-areas&#34;&gt;Project Shakti: Empowering Women&amp;rsquo;s Safety in Remote Areas&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m excited to share my latest project - a comprehensive women&amp;rsquo;s safety app designed specifically for remote and rural areas where internet connectivity is limited.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;Women in remote areas face unique safety challenges with limited access to immediate help and weak digital infrastructure.&lt;/p&gt;
+&lt;h2 id=&#34;the-solution---project-shakti&#34;&gt;The Solution - Project Shakti&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;One-Tap SOS Alert&lt;/strong&gt; - Emergency button sends GPS location via SMS to all saved contacts (no internet needed!)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Support System&lt;/strong&gt; - Real-time chat connecting women for mutual support and safety tips&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Smart Emergency Response&lt;/strong&gt; - Quick access to Police (100), Women Helpline (1091), and Ambulance (108)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location Sharing&lt;/strong&gt; - Share real-time GPS coordinates with trusted contacts instantly&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety Resources&lt;/strong&gt; - Comprehensive safety tips and emergency helplines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
+&lt;p&gt;React Native | Expo | AsyncStorage | SMS API | Location Services | Linear Gradients&lt;/p&gt;</description>
     </item>
     <item>
-      <title>C.R.Rao and his lower bounds</title>
-      <link>https://anil.battalahalli.me/stats-projects/crrao/</link>
+      <title>Smart Attendance System</title>
+      <link>http://localhost:1313/stats-projects/smart_attendance_system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/stats-projects/crrao/</guid>
-      <description>Calyampudi Radhakrishna Rao (కల్యంపూడి రాధాకృష్ణారావు) is a legendary mathematician and statistician who has made pioneering contributions to various fields such as information theory, estimation, inference, multivariate analysis, and orthogonal arrays. His groundbreaking work has had a profound impact on not only statistics but also economics, genetics, anthropology, geology, national planning, demography, biometry, and medicine. In April 2023, he received the International Prize in Statistics, also known as the Nobel Prize for Statistics, for his dedication to the field.</description>
+      <guid>http://localhost:1313/stats-projects/smart_attendance_system/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;An AI-powered attendance management application that automatically marks student attendance using facial recognition through a live camera feed. This project is built using Python, Flask, OpenCV, and MediaPipe, offering a seamless, contactless attendance solution.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time facial recognition&lt;/li&gt;
+&lt;li&gt;Automatic attendance marking&lt;/li&gt;
+&lt;li&gt;Live camera feed processing&lt;/li&gt;
+&lt;li&gt;Contactless solution&lt;/li&gt;
+&lt;li&gt;High accuracy face detection and recognition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Framework&lt;/strong&gt;: Flask&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computer Vision&lt;/strong&gt;: OpenCV, MediaPipe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI/ML&lt;/strong&gt;: Artificial Intelligence, Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/BhaskPand/Smart-Attendance-System&#34;&gt;BhaskPand/Smart-Attendance-System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Is the Dirichlet Function Riemann-Darboux Integrable?</title>
-      <link>https://anil.battalahalli.me/stats-projects/dirichlet/</link>
+      <title>Personal Portfolio Website</title>
+      <link>http://localhost:1313/stats-projects/personal_portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/stats-projects/dirichlet/</guid>
-      <description>This is not really stats project but it is pretty cool The Dirichlet Function The Dirichlet function is one of the easiest functions to define. It&amp;rsquo;s literally,
-$$ \gdef{\boldphi}{\boldsymbol{\phi}} $$
-$$ \begin{aligned} f(x)&amp;=\left\{ \begin{array}{ll} 1, &amp; \text{if } x \text{ is rational} \\ 0, &amp; \text{if } x \text{ is not rational} \end{array} \right. \end{aligned} $$ or using the symbols from number theory/set theory that almost no one remembers,</description>
+      <guid>http://localhost:1313/stats-projects/personal_portfolio/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Designed and developed a fully responsive personal portfolio using HTML and CSS to showcase my resume, projects and contact information. The project focuses on clean layout, user-friendly design, and performance.&lt;/p&gt;
+&lt;p&gt;Deployed the website using GitHub Pages for free and reliable hosting.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fully responsive design&lt;/li&gt;
+&lt;li&gt;Clean layout&lt;/li&gt;
+&lt;li&gt;User-friendly interface&lt;/li&gt;
+&lt;li&gt;High performance&lt;/li&gt;
+&lt;li&gt;Showcases resume, projects, and contact information&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: HTML, CSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment&lt;/strong&gt;: GitHub Pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Version Control&lt;/strong&gt;: GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;HTML, Cascading Style Sheets (CSS), GitHub&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ತಿರುಗಿ ನಾ ಹ್ಯಾಂಗ ನೋಡಲೇ ನಿನ್ನ?</title>
-      <link>https://anil.battalahalli.me/kannada/nee_hinga_nodabeda/</link>
+      <title>Smart Glasses For Visually Impaired</title>
+      <link>http://localhost:1313/stats-projects/smart_glasses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/kannada/nee_hinga_nodabeda/</guid>
-      <description>ನೀ ಹೀಂಗ ನೋಡಬ್ಯಾಡ ನನ್ನ
-ನೀ ಹೀಂಗ ನೋಡಿದರ ನನ್ನ ತಿರುಗಿ ನಾ ಹ್ಯಾಂಗ ನೋಡಲೇ ನಿನ್ನ
-ಸಂಸಾರ ಸಾಗರದಾಗ ಲೆಕ್ಕವಿರದಷ್ಟು ದುಃಖದ ಬಂಡಿ
-ನಾ ಬಲ್ಲೆ ನನಗೆ ಗೊತ್ತಿಲ್ಲದಿದ್ದರೂ ಎಲ್ಲಿ ಆಚೆಯಾ ದಂಡಿ
-ಮಲಗಿರುವ ಕೂಸು ಮಲಗಿರಲಿ ಅಲ್ಲಿ, ಮುಂದಿನದು ದೇವರ ಚಿತ್ತ
-ನಾ ತಡೀಲಾರೆ ಅದು, ಯಾಕ ನೋಡತೀ ಮತ್ತ ಮತ್ತ ಇತ್ತ?
-ತಂಬಲs ಹಾಕದ ತುಂಬ ಕೆಂಪು ಗಿಡಗಡಕಹಣ್ಣಿನ ಹಾಂಗ
-ಇದ್ದಂಥ ತುಟಿಯ ಬಣ್ಣೆತ್ತ ಹಾರಿತು? ಯಾವ ಗಾಳಿಗೆ, ಹೀಂಗ
-ಈ ಗದ್ದ, ಗಲ್ಲ, ಹಣಿ, ಕಣ್ಣುಕಂಡು ಮಾರೀಗೆ ಮಾರಿಯ ರೀತಿ
-ಸಾವನs ತನ್ನ ಕೈ ಸವರಿತಲ್ಲಿ, ಬಂತೆsನಗ ಇಲ್ಲದ ಭೀತಿ
-ಧಾರೀಲೆ ನೆನೆದ ಕೈ ಹಿಡಿದೆ ನೀನು, ತಣ್ಣsಗ ಅಂತ ತಿಳಿದು</description>
+      <guid>http://localhost:1313/stats-projects/smart_glasses/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Developed smart glasses for visually impaired individuals using ESP32, integrating AI-powered object detection, obstacle avoidance, and voice assistance. Implemented real-time image processing and text-to-speech conversion to enhance navigation and accessibility.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AI-powered object detection&lt;/li&gt;
+&lt;li&gt;Obstacle avoidance system&lt;/li&gt;
+&lt;li&gt;Voice assistance for navigation&lt;/li&gt;
+&lt;li&gt;Real-time image processing&lt;/li&gt;
+&lt;li&gt;Text-to-speech conversion&lt;/li&gt;
+&lt;li&gt;Enhanced accessibility for visually impaired users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hardware&lt;/strong&gt;: ESP32&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI/CV&lt;/strong&gt;: Artificial Intelligence &amp;amp; Computer Vision&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IoT&lt;/strong&gt;: IoT &amp;amp; Voice Assistance&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other&lt;/strong&gt;: Embedded Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;Embedded Systems, Artificial Intelligence &amp;amp; Computer Vision, IoT &amp;amp; Voice Assistance, Team Leadership&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Analysis of Prevalence of Mental Illnesses and Suicide in Different Countries</title>
-      <link>https://anil.battalahalli.me/stats-projects/analysis_of_mental_illness/</link>
+      <title>RealMeta - Museum Painting Scanner</title>
+      <link>http://localhost:1313/stats-projects/realmeta_museum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/stats-projects/analysis_of_mental_illness/</guid>
-      <description>Photograph credits: Vulkan Olmez Introduction In the last two decades, there have been significant developments in understanding the anatomy of the brain for mental illnesses like Major Depressive Disorder, Anxiety Disorder, Bipolar Disorder, Schizophrenia, Personality Disorder, etc. Most of these disorders, along with alcohol and drug abuse are studied together to analyze the possible coexistence and the quantification of the correlation. One such study by Muester, et. al[1], estimates high rates of co-occurring mental illnesses and substance use disorders at around 50%.</description>
+      <guid>http://localhost:1313/stats-projects/realmeta_museum/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;RealMeta is a no-login, camera-based museum painting scanner. Point your phone at a painting, capture, and get instant information. Works offline for demos, supports anonymous analytics with consent, and includes a simple guided tour queue.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;No login&lt;/strong&gt; — immediate use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Camera capture&lt;/strong&gt; and scan-based lookup (pHash)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rich info&lt;/strong&gt;: text + audio (with TTS fallback)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Guided tour queue&lt;/strong&gt; (Next / Clear)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anonymous analytics&lt;/strong&gt; with consent modal and session UUID&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Offline-ready&lt;/strong&gt; via Service Worker (pre-caches core assets)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Flask, Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Computer Vision&lt;/strong&gt;: OpenCV&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: JavaScript, HTML, CSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ML&lt;/strong&gt;: scikit-learn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other&lt;/strong&gt;: JSON, Text-to-Speech Synthesis, phash&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;Flask, Python (Programming Language), OpenCV, JSON, JavaScript, Text-to-Speech Synthesis, phash, HTML, Cascading Style Sheets (CSS), scikit-learn&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?</title>
-      <link>https://anil.battalahalli.me/kannada/nee_horatiddiga_ellige/</link>
+      <title>ExamsAI – Competitive Exams Hub</title>
+      <link>http://localhost:1313/stats-projects/examsai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/kannada/nee_horatiddiga_ellige/</guid>
-      <description>ಘಮ ಘಮ ಘಮಾಡಿಸ್ತಾವ ಮಲ್ಲಿಗೆ
-ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?
-ತುಳುಕ್ಯಾಡುತ್ತಾವ ತೂಕಡಿಕಿ
-ಎವಿ ಅಪ್ಪುತ್ತಾವ ಕಣ್ ದುಡುಕಿ
-ಕನಸು ತೇಲಿ ಬರುತ್ತಾವ ಹುಡುಕಿ
-ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?
-ಚಿಕ್ಕಿ ತೋರಿಸ್ತಾವ ಚಾಚಿ ಬೆರಳ
-ಚಂದ್ರಮ ಕನ್ನಡಿ ಹರಳ
-ಮನ ಸೋತು ಆಯಿತು ಮರುಳ
-ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?
-ನೆರಳಲ್ಲಾಡುತ್ತಾವ ಮರದ ಬುಡಕ್ಕ
-ಕೇರಿ ತೇರಿ ನೂಗುತ್ತಾವ ದಡಕ್ಕ
-ಹಿಂಗ ಬಿಟ್ಟು ಇಲ್ಲಿ ನನ್ನ ನಡಕ
-ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?
-ನನ್ನ ನಿನ್ನ ಒಂದತನದಾಗ
-ಹಾಡು ಹುಟ್ಟಿ ಒಂದು ಮನದಾಗ
-ಬೆಳದಿಂಗಳಾತು ಬನದಾಗ
-ನೀ ಹೊರಟಿದ್ದೀಗ ಎಲ್ಲಿಗೆ?
-ಬಂತ್ಯಾಕ ನಿನಗ ಇಂದ ಮುನಿಸು
-ಬೀಳಲಿಲ್ಲ ನನಗ ಇದರ ಕನಸು</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://anil.battalahalli.me/homepage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anil.battalahalli.me/homepage/</guid>
-      <description>&lt;!DOCTYPE html&gt; Centered Image with Circular Border (CSS) </description>
+      <guid>http://localhost:1313/stats-projects/examsai/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Built a full-stack AI-integrated web application as part of the Full Stack Developer Assessment by Bhatiyani Astute Intelligence Pvt. Ltd.&lt;/p&gt;
+&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: React.js with MUI (Material UI)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Flask (Python), SQLite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment&lt;/strong&gt;: Vercel (frontend), Render (backend)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI Integration&lt;/strong&gt;: OpenAI GPT-3.5 API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add/delete and manage custom exams&lt;/li&gt;
+&lt;li&gt;Visual exam trends using charts&lt;/li&gt;
+&lt;li&gt;Generate personalized study plans using OpenAI&lt;/li&gt;
+&lt;li&gt;Clean UI/UX and mobile responsiveness&lt;/li&gt;
+&lt;li&gt;API environment configuration using .env&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;learnings&#34;&gt;Learnings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hands-on experience building and deploying full-stack applications&lt;/li&gt;
+&lt;li&gt;API integration and backend database management&lt;/li&gt;
+&lt;li&gt;Environment variable handling and Git workflow&lt;/li&gt;
+&lt;li&gt;Problem-solving and debugging in live deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;React.js, MUI, Flask, SQLite, OpenAI, Render, Vercel&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,147 +6,104 @@ _build:
   list: never
 ---
 
+## Bhaskar Pandit M N
+
++91-9538123056 | Bengaluru, Karnataka, India  
+bhaskarpanditmn@gmail.com | LinkedIn | Portfolio | GitHub
+
 ## Education
-### University of Michigan – Ann Arbor
 
-**Master's degree - Applied Statistics** \
-*(Sep 2020 – Apr 2022)*\
-GPA: 3.57/4\
-**Relevant Coursework**: Statistical Learning, Statistical Inference, Computational Methods in Statistics and Data Science, Bayesian Statistics, Design of Experiments, Monte-Carlo Methods
+### APS College Of Engineering (APSCE)
+**Bachelor of Engineering in Information Science Engineering**, CGPA: 7.9  
+Bengaluru, Karnataka  
+Sep'24 – Aug'25 | Dec 2022 – Dec 2026
 
+## Technical Skills
 
-### B. M. S. College of Engineering
-**Bachelor's degree - Telecommunications Engineering**\
-*(2014 - 2018)*\
-CGPA: 7.80/10 (Graduated with High Distinction)
+**Languages**: JavaScript, TypeScript, Python, Java, C++, HTML/CSS, SQL
 
-**Activities**
-1. Organized events like Foxhunt and IR Transmitter hunt for the technical fest at the school.
-2. Organized and delivered workshops like ‘Raspberry Pi with Linux and Python’, ‘Introduction to Machine Learning’, etc. with IEEE.
-3. As an alumnus, I assisted the Department Advisory Board as a consultant to frame the curriculum for the prospective students.
+**Frontend**: React.js, React Native, Expo, Material-UI, HTML5, CSS3
 
-## Certifications
-**Bayesian Statistics (Duke University)**\
-Issued Sep 2019\
-Credential ID JDRCRY8WQVRH\
-[See credential](https://www.coursera.org/account/accomplishments/verify/JDRCRY8WQVRH?trk=public_profile_see-credential)
+**Backend**: Node.js, Express.js, Flask, RESTful APIs
 
-**Inferential Statistics (Duke University)**\
-Issued Sep 2019\
-Credential ID R6RL7EQBHFCD\
-[See credential](https://www.coursera.org/account/accomplishments/verify/R6RL7EQBHFCD?trk=public_profile_see-credential)
+**Databases**: MongoDB, SQLite, SQL
 
-**Linear Regression and Modeling (Duke University)**\
-Issued Sep 2019\
-Credential ID GU6UMX33HF5F\
-[See credential](https://www.coursera.org/account/accomplishments/verify/GU6UMX33HF5F?trk=public_profile_see-credential )
+**Tools & Technologies**: Docker, Git, SSH, Linux, OpenCV, MediaPipe, TensorFlow, PyTorch
 
-**Introduction to Probability and Data (Duke University)**\
-Issued Sep 2019\
-Credential ID PW4N3WE65D48\
-[See credential](https://www.coursera.org/account/accomplishments/verify/PW4N3WE65D48?trk=public_profile_see-credential)
+**Domains**: Full Stack Development, AI/ML, Computer Vision, Cybersecurity, IoT, Mobile Development
 
-**Machine Learning (Stanford University)**\
-Issued Sep 2019\
-Credential ID MPTSTFZQQ9Q8\
-[See credential](https://www.coursera.org/account/accomplishments/verify/MPTSTFZQQ9Q8?trk=public_profile_see-credential)
+## Experience
 
-## Skills
+### AI/ML Intern
+**GTRE, DRDO**  
+Bengaluru, Karnataka  
+Jan 2026 – Apr 2026
 
-**Methods/Technologies**: Machine Learning, NLP, Causal Inference, Monte-Carlo methods, Artificial Neural Networks, Time Series Classification (w/LSTM), Large Language Models (LLM),  BERT, LLAMA, Transfer Learning, Linux, SQL, REST\
-**Libraries**: Scikit-Learn, Tensorflow, PyTorch, Scikit-Image, Numpy, Pandas, OpenCV, ggplot2, dplyr, lme4, geepack\
-**Programming Languages**: Python, R, GNU OCTAVE/ MATLAB,  Julia
+- Developed machine learning models for defense applications using TensorFlow and PyTorch
+- Implemented AI-driven solutions for data analysis and predictive modeling in critical systems
+- Collaborated with research teams to optimize algorithms for real-time processing and deployment
 
-## Work Experience
+### Software Developer
+**KLS Tech Solutions**  
+Bengaluru, Karnataka  
+Sep 2024 – Present
 
-### Zucitech Software Solutions Pvt. Ltd.
-(May 2025 - Present)
-**AI/ML Specialist**
-- Led the development of RAG-based internal policy retrieval chatbot for Prevention of Sexual Harassment (POSH) compliance leveraging state-of-the-art generative language models and vector embeddings
+- Architected LokSuraksha, a full-stack citizen safety platform with React Native mobile app, React web dashboard, and Node.js/Express API handling real-time GPS tracking and photo uploads
+- Led development of Project Shakti, a women's safety app with SMS-based SOS alerts working offline, enabling emergency response in areas with limited connectivity
+- Implemented Docker containerization and monorepo architecture with shared TypeScript types for seamless cross-platform development
 
-### Westat
-*(June 2022 – Feb 2025)*\
-**Lead Statistical Associate**
-- Performed statistical analysis for a large-scale national health trends survey to study the causal effects of incentives on the quality of survey responses.
-- Conducted statistical disclosure analysis to create public-use files for a large-scale longitudinal health survey on tobacco and health.
-- Analyzed data from a national crime victimization survey using Poisson regression with replicate weights to obtain more accurate estimates of standard errors by accounting for complex survey design.
-- Improved upon the existing audio machine learning pipeline to obtain more accurate speaker recognition and transcription from computer-recorded survey interviews. This was deployed in production for large-scale longitudinal health surveys used in national quality control.
-- Led the development of a novel multi-class medical text classifier for categorizing medical records into drug abuse cases as part of a federal public health monitoring system. Improved accuracy from 75% to ~90% on the test data by leveraging state-of-the-art large language model NLP techniques and model fine-tuning.
-- Streamlined the survey weighting process by reducing redundancies and eliminating human error, resulting in more efficient and accurate analyses.
-- Improved upon an existing Julia package to iteratively collect large-scale GitHub repository and developer data for a national open-source software research initiative. The improved package added functions to extract GitHub metadata, which was instrumental in our analysis.
-- Leveraged state-of-the-art large language models to obtain better estimates for matching responder-provided industry text to standardized industry classification codes. The pipeline involved data augmentation followed by feature extraction to improve upon the existing set of keywords.
+### Full Stack Development Intern
+**Edunet Foundation**  
+Bengaluru, Karnataka  
+Oct 2024 – Mar 2025
 
-### Graduate Student Research Assistant
-*(Sep 2021 - Apr 2022)*\
-**D3Center, Institute of Social Research, University of Michigan**\
-- Developed SMARTUtils, an R package for analyzing data arising from clustered sequential multiple assignment randomized trials (SMARTs)
-- Worked on the development of simulation-based sample size and effect size calculators for SMARTs
-- Worked on methods to develop more statistically efficient methods for comparing the embedded adaptive
-interventions in a clustered SMARTs with longitudinal outcome
-
-### Westat
-*(Jun 2021 – Sep 2021)*\
-**Data Science Intern**
-- Developed solutions to validate survey data and to detect interviewer falsification using machine learning for speech and text data to reduce the manual review overheads
-- Built a pipeline which includes deep audio diarization, speaker change detection, and audio transcription. This was followed by NLP sentence similarity methods to
-check for interviewer falsification. I also handled Linux system administration and deployment
-- Used character-level LSTM for the classification of survey entities into required classes, which proved to be a lot more effective compared to rule-based methods, which were used previously. This model achieved an accuracy of 94% on testing
-
-### Medilenz Innovations
-*(Oct 2019 – Feb 2020)*\
-**Machine Learning Consultant**
-- Developed deep learning solutions for extracting entities from unstructured medical documents to generate summaries, which helped the company reduce manual bottleneck. This was used in production which reduced the turnover time from 5 days to 10 minutes
-- Built a complex functional deep neural network which takes in image information from documents, coordinates from tesseract OCR, and text to detect required entities. The deep neural network comprised of character-level LSTM layers, convolutional layers, and linear input layers
-- Used Flask to develop webpages and REST APIs to automate in-house tasks used by medical coding team which reduced some manual overheads by 75%
-
-### Adapt Ready
-*(Jul 2018 - Jul 2019)*\
-**Machine Learning Engineer**
-- Developed Python services and machine learning models for text classification, relationship extraction and web scrapping for Insure-Tech solutions
-- Used bag-of-words approach to build a simple text classifier which received web articles from server sent events (SSE). The classifier was highly scalable and modular
-with internal message queues (rabbitMQ) and REST endpoints and database interface. The classifier also supported manual review queue for validation and retraining
-- Developed novel methods for performing relationship extraction (NLP) using both rule-based methods and sequence models (LSTM) to suit the domain needs
-- Assisted the company with technical interviews for machine learning and data science intern positions
-
-### TCS iON
-*(Jan 2019 - Feb 2019 )*
-**Visiting Professor**
-- Worked as a TCS iON visiting professor to conduct the *Introduction to Data Science with Python* nano-course to the students at Sapthagiri College of Engineering
-
+- Built responsive web applications using MERN stack with secure authentication and API integration
+- Implemented security best practices including input validation and protection against common vulnerabilities
+- Conducted code reviews and maintained 95% code coverage through comprehensive testing procedures
 
 ## Projects
-### [Bayesian Estimates for Power-Law Distribution using Monte-Carlo Methods](https://anil.battalahalli.me/stats-projects/mcmc_powerlaw/)
-- As a part of the final project in the course **Monte-Carlo Methods in Statistics**, I worked on the Bayesian methods for the estimating of the parameters of a power-law
-distribution with exponential cut-off by deriving Jeffrey’s prior and Monte-Carlo methods like Metropolis-Hasting and Accept-Reject methods
-- I collaborated with a researcher from National Institute for Mental Health and Sciences (NIMHANS) to use the same to model neuronal avalanches to detect lesions and some forms of epilepsy. This proved to be much more efficient compared to the existing methods which use Maximum Likelihood Estimation
 
-### [Bayesian Methods for the Estimation of Infection and Recovery Rates of an Epidemic from Stochastic SIR Data](https://anil.battalahalli.me/stats-projects/bayesian_sir/)
-- As a part of the final project in the course **Bayesian Statistics**, I worked on the Bayesian methods for the estimating forecasting COVID cases
-- Bayesian methods were applied to the SIR model for epidemics and the infection and recovery rates were estimated using Markov Chain Monte Carlo methods to sample from the posterior
+### LokSuraksha App
+**React Native, React.js, Node.js, Express, TypeScript, SQLite, Docker**  
+Dec 2025
 
-### [Bootstrap Analysis of the Prevalence of Mental Illnesses and Suicide in Different Countries](https://anil.battalahalli.me/stats-projects/analysis_of_mental_illness/)
--  As a part of the final project in the course “Computational Methods in Statistics”, I worked on Bootstrap Analysis of the Prevalence of Mental Illnesses and Suicide in Different Countries
-- I used the data from 2021 Human Development Reports of WHO for this research. The method involved EDA, data clean-up, Gower-clustering for dimensionality reduction, and pairwise hypothesis testing for the correlation and means for mental illnesses like Bipolar Disorder, Schizophrenia, Depression, etc
+- Built full-stack citizen safety reporting ecosystem with mobile app, web dashboard, and backend API enabling users to report public safety issues with photos and GPS data
+- Implemented monorepo architecture with shared TypeScript workspace for types and API clients, ensuring type safety across platforms
+- Developed secure admin authentication system and real-time report tracking with offline support and data queueing
 
-### [Robotic Navigation using Deep-Q Learning](https://github.com/AnilBattalahalli/marker-for-RL?trk=public_profile_project-button)
-- Developed a novel approach to robotic navigation which involved a Deep-Q network implemented on a Raspberry Pi controlling the limbs of a four-legged robot. The rewards and punishments were controlled by an external computer interfaced with a camera to detect the location of the robot using computer vision methods
-- The robot learnt to walk in a straight path without explicitly programmed to do so in under 10 hours, with the help of rewards and punishments policies
+### Project Shakti
+**React Native, Expo, AsyncStorage, SMS API, Location Services**  
+Nov 2025
 
-### [Infant Cry Classification with Machine Learning](https://github.com/AnilBattalahalli/infant-cry-ML?trk=public_profile_project-button)
-- Worked on the research involving the classification of an infant’s cry into hungry and spasmatic classes to detect abnormalities after the birth
-- The method involved the use of Fourier Transform to obtain a sequence of frequency spectra which were then used for classification. The CRNN approach to solving the same yielded an accuracy of 96% on testing samples
+- Engineered women's safety app for remote areas with one-tap SOS alert sending GPS location via SMS without internet
+- Built community support system with real-time chat and quick access to emergency services (Police, Women Helpline, Ambulance)
+- Designed offline-first architecture addressing safety challenges in areas with limited digital infrastructure
 
-### [Machine learning for Epileptic EEG diagnosis](https://github.com/AnilBattalahalli/eeg_spike_detection?trk=public_profile_project-button)
-- Developed novel methods for detecting epileptogenic spikes from an EEG for the purpose of diagnosis of epilepsy. The method involved the use of signal processing methods, the nonlinear energy operator and LSTM to classify the spikes into epileptogenic and non-epileptogenic classes
-- This research was presented at the ICEECCOT, IEEE Conference – 2018
+### DeLusion AI
+**React, Node.js, Python, Browser Extension, OpenCV**  
+Nov 2025
 
-## Conferences and Publications
-- **Multilevel Primary Aim Analyses of Clustered SMARTs: With Applications in Health Policy**; Gabriel Durham, **Anil Battalahalli**, Amy Kilbourne, Andrew Quanbeck, Wenchu Pan, Tim Lycurgus, Daniel Almirall; Submitted to AOAS 2025; https://doi.org/10.48550/arXiv.2503.08987
-- **Primary Aim Analyses in Clustered SMARTs using Longitudinal Outcomes**; Gabriel Durham, **Anil Battalahalli**, Amy Kilbourne, Andrew Quanbeck, Wenchu Pan, Tim Lycurgus, Daniel Almirall; 2024 Joint Statistical Meetings (JSM); Portland, OR (USA) - 08 August 2024
-- **Comparing Multilevel Adaptive Interventions in Clustered SMARTs using Longitudinal Outcomes**: With Application to Health Policy ; Gabriel Durham, Amy Kilbourne, Andrew Quanbeck, **Anil Battalahalli**, Wenchu Pan, Tim Lycurgus, Daniel Almirall; 2024 ENAR Spring Meeting; Baltimore, MD (USA) - 11 March 2024
-- **Standardized Effect Sizes for the Comparison of the Embedded, Clustered Adaptive Interventions in Clustered SMARTs**; Anandkumar Patel, **Anil Battalahalli**, Amy Kilbourne, and Daniel Almirall. Poster presented at MSSISS, Ann Arbor, MI, March 2022
-- **Assessing Survey Questions through a Machine Learning Pipeline: Emotions and Paralinguistic Behaviors**; **Anil Battalahalli**, Hanyu Sun, and Ting Yan; Federal Committee on Statistical Methodology 2023. College Park, MD, 2023
-- **Using Machine Learning for Image Extraction and Survey Question Evaluation**; **Anil Battalahalli**, Hanyu Sun, and Ting Yan; American Association for Public Opinion Research conference 2024; Atlanta, GA, 2024
-- **Assessing Survey Questions Through a Machine Learning Pipeline: Emotions and Paralinguistic Behaviors**; Hanyu Sun, **Anil Battalahalli**, and Ting Yan, American Association for Public Opinion Research conference 2024; Atlanta, GA, 2024
-- **Can I Have Your Name? Classification of Names for Case Prioritization in Household CAPI Surveys**; Xin (Rosalynn) Yang, **Anil Battalahalli**,and Ting Yan; Paper presented at the American Association of Public Opinion Research annual conference, Chicago, IL, May 12, 2022
-- **Applying Machine Learning to Survey Question Assessment**; Yan Ting, Hanyu Sun, and **Anil Battalahalli**; Survey Practice, 17, May 2024
+- Core contributor to real-time deepfake detection platform analyzing images, videos, and audio for AI-generated content
+- Implemented deepfake detection models analyzing micro-expressions, lighting inconsistencies, lip-sync issues, and voiceprints
+- Built browser extension with Node.js gateway for instant cross-platform alerts and automated takedown requests via APIs
+
+### RealMeta - Museum Painting Scanner
+**Flask, Python, OpenCV, JavaScript, TTS**  
+Nov 2025
+
+- Built no-login camera-based museum guide using perceptual hashing (pHash) for instant painting recognition
+- Implemented offline-first PWA with Service Worker, text-to-speech audio guides, and anonymous analytics with consent
+
+### Smart Attendance System
+**Python, Flask, OpenCV, MediaPipe, AI**  
+Oct 2025
+
+- Developed AI-powered facial recognition system for contactless attendance management using live camera feed
+- Achieved high accuracy in real-time face detection and recognition using MediaPipe and OpenCV libraries
+
+### Smart Glasses for Visually Impaired
+**ESP32, AI, IoT, Computer Vision**  
+Oct 2024
+
+- Engineered wearable device with AI-powered object detection, obstacle avoidance, and voice assistance for navigation
+- Integrated real-time image processing and text-to-speech conversion to enhance accessibility for visually impaired users
